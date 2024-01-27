@@ -1,6 +1,4 @@
 {
-  "homepage": "https://github.com/sona82800/newsapp.git",
-  "name":"newsapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
